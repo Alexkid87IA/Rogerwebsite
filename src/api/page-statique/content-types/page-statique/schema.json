@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages_statiques",
+  "info": {
+    "singularName": "page-statique",
+    "pluralName": "pages-statiques",
+    "displayName": "Page Statique",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titre": {
+      "type": "string"
+    },
+    "contenu": {
+      "type": "richtext"
+    }
+  }
+}
